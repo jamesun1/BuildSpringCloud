@@ -20,6 +20,7 @@
 		<module>service-hi</module>
     <module>clientServer</module>
     <module>service-ribbon</module>
+    <module>serice-feign</module>
   </modules>
 
 	<properties>
